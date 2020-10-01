@@ -57,5 +57,6 @@ int multiply(int x, int res[], int res_size)
 int main() 
 { 
     factorial(100); 
+    factorial(50);
     return 0; 
 } 
