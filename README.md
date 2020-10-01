@@ -37,8 +37,6 @@ Feel free to post your codes here.
   </tr>
 </table>
 
-
-## Contributing
 ### Please star & Fork the Repository. So,that you can be benefited in Future. 
 #### Note: ONLY C++ CODES ARE ACCEPTED
 
