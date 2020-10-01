@@ -9,6 +9,11 @@ Feel free to post your codes here.
 ## Contributers
 - [Naveen Bandarage](https://github.com/NaveenBandarage)
 
+## Number of Commits
+- [Naveen Bandarage](https://github.com/NaveenBandarage) - 2.
+
+## Picture
+
 
 ## Contributing
 Please star & Fork the Repository. So,that you can be benefited in Future. 
