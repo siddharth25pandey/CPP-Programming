@@ -1,6 +1,6 @@
 # CPP-Programming
 
-### This repository is created to help beginners in their Open Source Contribution for Hacktoberfest 2020.
+### This repository is created to help beginners in their Open Source Contribution .
 
 This Repository contains all types of **C++** Programming Algorithms.
 Feel free to post your codes here.
