@@ -1,3 +1,16 @@
-This folder contains solution to standart Dynammic Programming problems
+This folder contains solution to standard Dynammic Programming problems
 Link for all the questions :-
-[LINK](https://cses.fi/problemset/list)
+- [Coin_Combination1.cpp](https://cses.fi/problemset/task/1635)
+- [Coin_Combination2.cpp](https://cses.fi/problemset/task/1636)
+- [Dice_Combinations.cpp](https://cses.fi/problemset/task/1633)
+- [Minimizing_Coin.cpp](https://cses.fi/problemset/task/1634)
+- [Money_Sums.cpp](https://cses.fi/problemset/task/1745)
+- [arrayDescription.cpp](https://cses.fi/problemset/task/1746)
+- [bookShop.cpp](https://cses.fi/problemset/task/1158)
+- [editDistance.cpp](https://cses.fi/problemset/task/1639)
+- [gridPaths.cpp](https://cses.fi/problemset/task/1638)
+- [projects.cpp](https://cses.fi/problemset/task/1140)
+- [rectangleCutting.cpp](https://cses.fi/problemset/task/1744)
+- [removalGame.cpp](https://cses.fi/problemset/task/1097)
+- [removingDigits.cpp](https://cses.fi/problemset/task/1637)
+- [twoSets2.cpp](https://cses.fi/problemset/task/1093)
