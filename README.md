@@ -13,6 +13,7 @@ Feel free to post your codes here.
 - [Naveen Bandarage](https://github.com/NaveenBandarage) - 2.
 
 ## Picture
+![Naveen Bandarage phooto](/Images/NaveenBandarage.png)
 
 
 ## Contributing
