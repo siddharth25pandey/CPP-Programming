@@ -35,6 +35,8 @@ Feel free to post your codes here.
   <tr>
      <td align="center"><a href="https://github.com/ FawadMirza32"><img src="https://avatars1.githubusercontent.com/FawadMirza32" width="100px;" alt=""/><br /><sub><b>Fawad Mirza</b></sub></a><br /> <a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=https://github.com/ FawadMirza32" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/InsAneDark"><img src="https://avatars1.githubusercontent.com/InsAneDark" width="100px;" alt=""/><br /><sub><b>InsAneDark</b></sub></a><br /> <a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=https://github.com/InsAneDark" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/  kasojuswathi"><img src="https://avatars1.githubusercontent.com/  kasojuswathi" width="100px;" alt=""/><br /><sub><b>  Kasoju Swathi</b></sub></a><br /> <a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=https://github.com/  kasojuswathi" title="Documentation">📖</a></td>
+  
   </tr>
 </table>
 
