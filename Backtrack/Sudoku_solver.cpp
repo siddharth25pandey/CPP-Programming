@@ -58,14 +58,6 @@ bool solved(int cell[9][9])
                         return false;
                 }
             }
-            // int val = cell[row][col];
-            // for (int k = 0; k < 9; k++)
-            // {
-            //     if (val == cell[row][k] && k != col)
-            //         return false;
-            //     if (val == cell[k][col] && k != row)
-            //         return false;
-            // }
         }
     }
     return true;
@@ -77,8 +69,6 @@ void backtrack(int cell[9][9], int &k)
     //if we are at search space (or this is leaf node)
     if (k == 81)
     {
-        //print(cell);
-        cout << endl;
         if (solved(cell))
         {
             cout << "Solution of sudoku puzzle is >> " << endl;
@@ -126,16 +116,18 @@ int main()
         {0, 8, 0, 2, 0, 5, 0, 0, 0},
         {1, 0, 0, 0, 9, 0, 0, 0, 3},
         {0, 0, 9, 8, 0, 0, 0, 6, 0}};
-    // int cell[9][9] = {
-    //     {0, 3, 0, 0, 9, 0, 6, 1, 0},
-    //     {6, 0, 8, 5, 0, 3, 4, 9, 7},
-    //     {0, 9, 0, 6, 7, 0, 0, 0, 3},
-    //     {0, 5, 0, 8, 0, 4, 0, 0, 1},
-    //     {1, 6, 0, 3, 0, 0, 9, 8, 2},
-    //     {0, 0, 2, 9, 6, 0, 3, 0, 0},
-    //     {0, 8, 0, 1, 3, 0, 2, 0, 6},
-    //     {3, 0, 5, 0, 4, 6, 0, 7, 9},
-    //     {0, 4, 6, 0, 8, 0, 1, 0, 0}};
+    printf("This is suduko solver of size 9*9\n");
+    printf("Would you like to have custom initial input ? y=yes, n=no\n");
+    char ch = getchar();
+    if(ch=='n') goto SkipInput;
+    for(int i=0;i<9;i++){
+        printf("Enter 9 entries for row %d\n",i+1);
+        for(int j=0;j<9;j++){
+            scanf("%d",&cell[i][j]);
+            assert(cell[i][j]>=0 && cell[i][j]<=9);
+        }
+    }
+    SkipInput:
     print(cell);
     int k = 0;
     backtrack(cell, k);
