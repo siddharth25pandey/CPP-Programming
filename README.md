@@ -26,14 +26,15 @@ Feel free to post your codes here.
      </tr>
       <tr>
     <td align="center"><a href="https://github.com/stuti-v4"><img src="https://avatars1.githubusercontent.com/stuti-v4" width="100px;" alt=""/><br /><sub><b>stuti-v4</b></sub></a><br /> <a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=https://github.com/stuti-v4" title="Documentation">📖</a></td>
+        <td align="center"><a href="https://github.com/ srasti-0630"><img src="https://avatars1.githubusercontent.com/ srasti-0630" width="100px;" alt=""/><br /><sub><b> srasti-0630</b></sub></a><br /> <a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=https://github.com/ srasti-0630" title="Documentation">📖</a></td>
      <td align="center"><a href="https://github.com/smriti-v16"><img src="https://avatars1.githubusercontent.com/smriti-v16" width="100px;" alt=""/><br /><sub><b>Smriti Verma</b></sub></a><br /> <a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=https://github.com/smriti-v16" title="Documentation">📖</a></td>
      <td align="center"><a href="https://github.com/prichoms"><img src="https://avatars1.githubusercontent.com/prichoms" width="100px;" alt=""/><br /><sub><b>Priyam Bajpai</b></sub></a><br /> <a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=https://github.com/prichoms" title="Documentation">📖</a></td>
      <td align="center"><a href="https://github.com/anand4234"><img src="https://avatars1.githubusercontent.com/anand4234" width="100px;" alt=""/><br /><sub><b>Anand Pavithran</b></sub></a><br /> <a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=https://github.com/anand4234" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://github.com/InsAneDark"><img src="https://avatars1.githubusercontent.com/InsAneDark" width="100px;" alt=""/><br /><sub><b>InsAneDark</b></sub></a><br /> <a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=https://github.com/InsAneDark" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/Anshul758"><img src="https://avatars1.githubusercontent.com/Anshul758" width="100px;" alt=""/><br /><sub><b>Anshul Sharma</b></sub></a><br /> <a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=https://github.com/Anshul758" title="Documentation">📖</a></td>
      </tr>
   <tr>
      <td align="center"><a href="https://github.com/ FawadMirza32"><img src="https://avatars1.githubusercontent.com/FawadMirza32" width="100px;" alt=""/><br /><sub><b>Fawad Mirza</b></sub></a><br /> <a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=https://github.com/ FawadMirza32" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/InsAneDark"><img src="https://avatars1.githubusercontent.com/InsAneDark" width="100px;" alt=""/><br /><sub><b>InsAneDark</b></sub></a><br /> <a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=https://github.com/InsAneDark" title="Documentation">📖</a></td>
   </tr>
 </table>
 
