@@ -6,50 +6,29 @@ This Repository contains all types of **C++** Programming Algorithms.
 Feel free to post your codes here.
 
 
-## Contributers
-- [Naveen Bandarage](https://github.com/NaveenBandarage)
-- [SIDDHARTH PANDEY](https://github.com/siddharth25pandey)
-- [platonspykar](https://github.com/platonspykar)
-- [Anurag kr shah](https://github.com/anu725053)
-- [GAURAV PATIL](https://github.com/GauravPatil8778)
-- [Gaurav](https://github.com/gpandey1709)
-- [Shreyash Mishra](https://github.com/Shreyashm16)
-- [Abhijeet Sonkar](https://github.com/Abhijeet-sonkar)
-- [srasti-0630](https://github.com/srasti-0630)
-- [Jatin Jain ](https://github.com/jatinjain001)
-- [Sneh Chauhan](https://github.com/Snake-27)
-- [Surya](https://github.com/surya1701)
-- [stuti-v4](https://github.com/stuti-v4)
-- [Smriti Verma](https://github.com/smriti-v16)
-- [Priyam Bajpai](https://github.com/prichoms)
-- [Nicușor Cruceru](https://github.com/nicusor43)
-- [Anand Pavithran](https://github.com/anand4234)
-- [InsAneDark](https://github.com/InsAneDark)
-- [Anshul Sharma](https://github.com/Anshul758)
-
-## Number of Commits
-- [Naveen Bandarage](https://github.com/NaveenBandarage) - 2.
-- [SIDDHARTH PANDEY](https://github.com/siddharth25pandey) - 13.
-- [platonspykar](https://github.com/platonspykar) - 5.
-- [Anurag kr shah](https://github.com/anu725053) - 5.
-- [GAURAV PATIL](https://github.com/GauravPatil8778) - 5.
-- [Gaurav](https://github.com/gpandey1709) - 4.
-- [Shreyash Mishra](https://github.com/Shreyashm16) - 3. 
-- [Abhijeet Sonkar](https://github.com/Abhijeet-sonkar) - 3.
-- [srasti-0630](https://github.com/srasti-0630) - 2. 
-- [Jatin Jain ](https://github.com/jatinjain001) - 2.
-- [Sneh Chauhan](https://github.com/Snake-27) - 2.
-- [Surya](https://github.com/surya1701) - 1.
-- [stuti-v4](https://github.com/stuti-v4) - 1.
-- [Smriti Verma](https://github.com/smriti-v16) - 1.
-- [Priyam Bajpai](https://github.com/prichoms) - 1.
-- [Nicușor Cruceru](https://github.com/nicusor43) - 1.
-- [Anand Pavithran](https://github.com/anand4234) - 1.
-- [InsAneDark](https://github.com/InsAneDark) - 1.
-- [Anshul Sharma](https://github.com/Anshul758) - 1.
-
-## Picture
-![Naveen Bandarage phooto](/Images/NaveenBandarage.png=100x100)
+## Contributor's List
+<table>
+  <tr>
+    <td align="center"><a href="https://siddharth25pandey.github.io/"><img src="https://avatars1.githubusercontent.com/siddharth25pandey" width="100px;" alt=""/><br /><sub><b>Siddharth Pandey</b></sub></a><br /> <a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=siddharth25pandey" title="Documentation">📖</a></td> 
+    <td align="center"><a href="https://github.com/NaveenBandarage"><img src="https://avatars1.githubusercontent.com/NaveenBandarage" width="100px;" alt=""/><br /><sub><b>Naveen Bandarage</b></sub></a><br /> <a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=NaveenBandarage" title="Documentation">📖</a></td>
+     <td align="center"><a href="https://github.com/GauravPatil8778"><img src="https://avatars1.githubusercontent.com/GauravPatil8778" width="100px;" alt=""/><br /><sub><b>Gaurav Patil</b></sub></a><br /> <a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=GauravPatil8778" title="Documentation">📖</a></td>
+     <td align="center"><a href="https://github.com/Shreyashm16"><img src="https://avatars1.githubusercontent.com/Shreyashm16" width="100px;" alt=""/><br /><sub><b>Shreyash Mishra</b></sub></a><br /> <a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=Shreyashm16" title="Documentation">📖</a></td>
+     <td align="center"><a href="https://github.com/Abhijeet-sonkar"><img src="https://avatars1.githubusercontent.com/Abhijeet-sonkar" width="100px;" alt=""/><br /><sub><b>Abhijeet Sonkar</b></sub></a><br /> <a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=Abhijeet-sonkar" title="Documentation">📖</a></td>
+     <td align="center"><a href="https://github.com/nicusor43"><img src="https://avatars1.githubusercontent.com/nicusor43" width="100px;" alt=""/><br /><sub><b>Nicușor Cruceru</b></sub></a><br /> <a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=https://github.com/nicusor43" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/anu725053"><img src="https://avatars1.githubusercontent.com/anu725053" width="100px;" alt=""/><br /><sub><b>Anurag Kumar</b></sub></a><br /> <a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=anu725053" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/surya1701"><img src="https://avatars1.githubusercontent.com/surya1701" width="100px;" alt=""/><br /><sub><b>S.Suryavardan</b></sub></a><br /> <a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=surya1701" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/gpandey1709"><img src="https://avatars1.githubusercontent.com/gpandey1709" width="100px;" alt=""/><br /><sub><b>Gaurav Pandey</b></sub></a><br /> <a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=gpandey1709" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/srasti-0630"><img src="https://avatars1.githubusercontent.com/srasti-0630" width="100px;" alt=""/><br /><sub><b>Srasti</b></sub></a><br /> <a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=https://github.com/srasti-0630" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/jatinjain001"><img src="https://avatars1.githubusercontent.com/jatinjain001" width="100px;" alt=""/><br /><sub><b>Jatin Jain</b></sub></a><br /> <a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=https://github.com/jatinjain001" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/Snake-27"><img src="https://avatars1.githubusercontent.com/Snake-27" width="100px;" alt=""/><br /><sub><b>Sneh Chauhan</b></sub></a><br /> <a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=https://github.com/Snake-27" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/stuti-v4"><img src="https://avatars1.githubusercontent.com/stuti-v4" width="100px;" alt=""/><br /><sub><b>stuti-v4</b></sub></a><br /> <a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=https://github.com/stuti-v4" title="Documentation">📖</a></td>
+     <td align="center"><a href="https://github.com/smriti-v16"><img src="https://avatars1.githubusercontent.com/smriti-v16" width="100px;" alt=""/><br /><sub><b>Smriti Verma</b></sub></a><br /> <a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=https://github.com/smriti-v16" title="Documentation">📖</a></td>
+     <td align="center"><a href="https://github.com/prichoms"><img src="https://avatars1.githubusercontent.com/prichoms" width="100px;" alt=""/><br /><sub><b>Priyam Bajpai</b></sub></a><br /> <a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=https://github.com/prichoms" title="Documentation">📖</a></td>
+     <td align="center"><a href="https://github.com/anand4234"><img src="https://avatars1.githubusercontent.com/anand4234" width="100px;" alt=""/><br /><sub><b>Anand Pavithran</b></sub></a><br /> <a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=https://github.com/anand4234" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/InsAneDark"><img src="https://avatars1.githubusercontent.com/InsAneDark" width="100px;" alt=""/><br /><sub><b>InsAneDark</b></sub></a><br /> <a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=https://github.com/InsAneDark" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/Anshul758"><img src="https://avatars1.githubusercontent.com/Anshul758" width="100px;" alt=""/><br /><sub><b>Anshul Sharma</b></sub></a><br /> <a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=https://github.com/Anshul758" title="Documentation">📖</a></td>
+     </tr>
+</table>
 
 
 ## Contributing
