@@ -1,6 +1,6 @@
 # <div align="center">🖥️CPP-PROGRAMMING💻</div>
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-20-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-21-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 ![Issues](https://img.shields.io/github/issues/siddharth25pandey/CPP-Programming)
 ![Pull Requests](https://img.shields.io/github/issues-pr/siddharth25pandey/CPP-Programming)
@@ -49,6 +49,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/FawadMirza32"><img src="https://avatars0.githubusercontent.com/u/37993847?v=4" width="100px;" alt=""/><br /><sub><b>FawadMirza32</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=FawadMirza32" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/kasojuswathi"><img src="https://avatars1.githubusercontent.com/u/56555547?v=4" width="100px;" alt=""/><br /><sub><b>kasojuswathi</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=kasojuswathi" title="Code">💻</a></td>
     <td align="center"><a href="https://sourcerer.io/kaushik-rishi"><img src="https://avatars2.githubusercontent.com/u/52498617?v=4" width="100px;" alt=""/><br /><sub><b> Kaushik Rishi</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=kaushik-rishi" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/giyasht"><img src="https://avatars1.githubusercontent.com/u/56585607?v=4" width="100px;" alt=""/><br /><sub><b>giyasht</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=giyasht" title="Code">💻</a></td>
   </tr>
 </table>
 
