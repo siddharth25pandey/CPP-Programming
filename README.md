@@ -1,12 +1,11 @@
 # <div align="center">🖥️CPP-PROGRAMMING💻</div>
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 ![Issues](https://img.shields.io/github/issues/siddharth25pandey/CPP-Programming)
 ![Pull Requests](https://img.shields.io/github/issues-pr/siddharth25pandey/CPP-Programming)
 ![Forks](https://img.shields.io/github/forks/siddharth25pandey/CPP-Programming)
 ![Stars](https://img.shields.io/github/stars/siddharth25pandey/CPP-Programming)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
-
 
 ### This repository is created to help beginners in their Open Source Contribution .
 
@@ -83,6 +82,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://github.com/platonspykar"><img src="https://avatars0.githubusercontent.com/u/72163218?v=4" width="100px;" alt=""/><br /><sub><b>platonspykar</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=platonspykar" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/Snake-27"><img src="https://avatars0.githubusercontent.com/u/72086275?v=4" width="100px;" alt=""/><br /><sub><b>Sneh Chauhan</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=Snake-27" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/nicusor43"><img src="https://avatars0.githubusercontent.com/u/53815814?v=4" width="100px;" alt=""/><br /><sub><b>Nicușor Cruceru</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=nicusor43" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/Anshul758"><img src="https://avatars1.githubusercontent.com/u/55247501?v=4" width="100px;" alt=""/><br /><sub><b>Anshul Sharma </b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=Anshul758" title="Code">💻</a></td>
   </tr>
 </table>
