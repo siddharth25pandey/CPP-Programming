@@ -11,7 +11,7 @@ This Repository contains all types of **C++** Programming Algorithms.
 Feel free to post your codes here.
 ### Please star 🌟 & Fork 🍴 the Repository. So,that you can be benefited in Future. 
 #### Note: ONLY C++ CODES ARE ACCEPTED
-
+#### Those who are creating any PR, please also edit the Contributor's List in Readme file parallely.
 ## Contributor's List
 <table>
   <tr>
