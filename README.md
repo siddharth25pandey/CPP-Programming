@@ -4,7 +4,6 @@
 ![Forks](https://img.shields.io/github/forks/siddharth25pandey/CPP-Programming)
 ![Stars](https://img.shields.io/github/stars/siddharth25pandey/CPP-Programming)
 [![HitCount](http://hits.dwyl.com/siddharth25pandey/CPP-Programming.svg)](http://hits.dwyl.com/siddharth25pandey/CPP-Programming)
-[![Open Source Helpers](https://www.codetriage.com/siddharth25pandey/CPP-Programming.svg/badges/users.svg)](https://www.codetriage.com/siddharth25pandey/CPP-Programming.svg))
 
 ### This repository is created to help beginners in their Open Source Contribution .
 
