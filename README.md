@@ -58,6 +58,6 @@ Feel free to post your codes here.
 [MIT](LICENSE)
 ##
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/siddharth25pandey/)
-[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
-## 
-<div align="center">🤞Happy Coding🤞</div>
+[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](https://GitHub.com/siddharth25pandey/)
+## <div align="center">🤞Happy Coding🤞</div>
+
