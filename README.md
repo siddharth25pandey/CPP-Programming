@@ -1,6 +1,6 @@
 # <div align="center">🖥️CPP-PROGRAMMING💻</div>
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-14-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-15-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 ![Issues](https://img.shields.io/github/issues/siddharth25pandey/CPP-Programming)
 ![Pull Requests](https://img.shields.io/github/issues-pr/siddharth25pandey/CPP-Programming)
@@ -89,6 +89,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/GauravPatil8778"><img src="https://avatars3.githubusercontent.com/u/67456816?v=4" width="100px;" alt=""/><br /><sub><b>GAURAV PATIL</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=GauravPatil8778" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/stuti-v4"><img src="https://avatars3.githubusercontent.com/u/70504325?v=4" width="100px;" alt=""/><br /><sub><b>stuti-v4</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=stuti-v4" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/smriti-v16"><img src="https://avatars2.githubusercontent.com/u/72195751?v=4" width="100px;" alt=""/><br /><sub><b>Smriti Verma</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=smriti-v16" title="Code">💻</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/Abhijeet-sonkar"><img src="https://avatars0.githubusercontent.com/u/53171003?v=4" width="100px;" alt=""/><br /><sub><b>Abhijeet Sonkar</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=Abhijeet-sonkar" title="Code">💻</a></td>
   </tr>
 </table>
 
