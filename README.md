@@ -5,10 +5,14 @@
 ![Stars](https://img.shields.io/github/stars/siddharth25pandey/CPP-Programming)
 [![HitCount](http://hits.dwyl.com/siddharth25pandey/CPP-Programming.svg)](http://hits.dwyl.com/siddharth25pandey/CPP-Programming)
 
-### This repository is created to help beginners in their Open Source Contribution .
+### Hello there!This repository is created to help beginners in their Open Source Contribution.
+ 
 
-This Repository contains all types of **C++** Programming Algorithms.
-Feel free to post your codes here.
+
+Why C++?</br>
+C++ is a powerful general-purpose programming language. It can be used to develop operating systems, browsers, games, and so on. C++ supports different ways of programming like procedural, object-oriented, functional, and so on. This makes C++ powerful as well as flexible.
+
+
 ### Please star 🌟 & Fork 🍴 the Repository. So,that you can be benefited in Future. 
 #### Note: ONLY C++ CODES ARE ACCEPTED
 #### Those who are creating any PR, please also edit the Contributor's List in Readme file parallely.
@@ -49,6 +53,7 @@ Feel free to post your codes here.
   <td align="center"><a href="https://github.com/Laukik-11"><img src="https://avatars1.githubusercontent.com/Laukik-11" width="100px;" alt=""/><br /><sub><b>Laukik Verma</b></sub></a><br /> <a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=https://github.com/Laukik-11" title="Documentation">📖</a></td>
   <td align="center"><a href="https://github.com/1laurelverma"><img src="https://avatars1.githubusercontent.com/1laurelverma" width="100px;" alt=""/><br /><sub><b>Laurel Verma</b></sub></a><br /> <a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=https://github.com/1laurelverma" title="Documentation">📖</a></td>
   <td align="center"><a href="https://github.com/10mohan"><img src="https://avatars1.githubusercontent.com/10mohan" width="100px;" alt=""/><br /><sub><b>Mohan</b></sub></a><br /> <a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=https://github.com/10mohan" title="Documentation">📖</a></td>
+  <td align="center"><a href="https://github.com/apoorva-25"><img src="https://avatars1.githubusercontent.com/apoorva-25" width="100px;" alt=""/><br /><sub><b>Apoorva Tyagi</b></sub></a><br /> <a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=https://github.com/apoorva-25" title="Documentation">📖</a></td>
     <tr>
   
   </tr>
