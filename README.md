@@ -57,7 +57,11 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/1laurelverma"><img src="https://avatars1.githubusercontent.com/u/56593513?v=4" width="100px;" alt=""/><br /><sub><b>1laurelverma</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=1laurelverma" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/10mohan"><img src="https://avatars1.githubusercontent.com/u/72243060?v=4" width="100px;" alt=""/><br /><sub><b>Mohan</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=10mohan" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/vishweshdhoble"><img src="https://avatars1.githubusercontent.com/u/56592524?v=4" width="100px;" alt=""/><br /><sub><b>vishweshdhoble</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=vishweshdhoble" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/shubhangi-singh21"><img src="https://avatars3.githubusercontent.com/u/66862125?v=4" width="100px;" alt=""/><br /><sub><b>Shuhangi Singh</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=shubhangi-singh21" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/shubhangi-singh21"><img src="https://avatars3.githubusercontent.com/u/66862125?v=4" width="100px;" alt=""/><br /><sub><b>Shubhangi Singh</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=shubhangi-singh21" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/jatinjain001"><img src="https://avatars2.githubusercontent.com/u/46483236?v=4" width="100px;" alt=""/><br /><sub><b>Jatin Jain</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=jatinjain001" title="Code">💻</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/anu725053"><img src="https://avatars0.githubusercontent.com/u/56585764?v=4" width="100px;" alt=""/><br /><sub><b>Anurag kr shah</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=anu725053" title="Code">💻</a></td>
   </tr>
 </table>
 
