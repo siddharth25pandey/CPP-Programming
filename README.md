@@ -1,8 +1,8 @@
 # CPP-Programming
-![Issues](https://img.shields.io/a href="https://github.com/siddharth25pandey/CPP-Programming)
-![Pull Requests](https://img.shields.io/a href="https://github.com/siddharth25pandey/CPP-Programming)
-![Forks](https://img.shields.io/github/forks/a href="https://github.com/siddharth25pandey/CPP-Programming)
-![Stars](https://img.shields.io/github/stars/a href="https://github.com/siddharth25pandey/CPP-Programming)
+![Issues](https://img.shields.io/github/issues/siddharth25pandey/CPP-Programming)
+![Pull Requests](https://img.shields.io/github/issues-pr/siddharth25pandey/CPP-Programming)
+![Forks](https://img.shields.io/github/forks/siddharth25pandey/CPP-Programming)
+![Stars](https://img.shields.io/github/stars/siddharth25pandey/CPP-Programming)
 ### This repository is created to help beginners in their Open Source Contribution .
 
 This Repository contains all types of **C++** Programming Algorithms.
