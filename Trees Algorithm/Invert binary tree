@@ -1,0 +1,40 @@
+class Node {
+    public : 
+    T data;
+    Node<T> *left;
+    Node<T> *right;
+
+    Node(T data) {
+        this -> data = data;
+        left = NULL;
+        right = NULL;
+    }
+};
+
+void invertBinaryTree(Node<int>* root) {
+	
+    if(root == nullptr)
+        return;
+    
+    //First invert left and right of root.
+    mirrorBinaryTree(root -> left);
+    mirrorBinaryTree(root -> right);
+    
+    //Now swap left and right of root.
+    Node<int>* temp = root -> left;
+    root -> left = root -> right;
+    root -> right = temp;
+    return;
+}
+
+
+
+int main() { 
+    Node *root = new Node<int>(1); 
+    root->left= new Node<int>(2); 
+    root->right= new Node<int>(3); 
+    root->left->left= new Node<int>(4); 
+    root->left->right= new Node<int>(5);  
+    invertBinaryTree(root); 
+    return 0; 
+} 
