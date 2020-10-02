@@ -63,12 +63,6 @@ Feel free to post your codes here.
 
 ### Please make sure to update tests as appropriate.
 
-## License
-[MIT](LICENSE)
-##
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/siddharth25pandey/)
-[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](https://GitHub.com/siddharth25pandey/)
-## <div align="center">🤞Happy Coding🤞</div>
 
 ## Contributors ✨
 
@@ -89,3 +83,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+## License
+[MIT](LICENSE)
+##
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/siddharth25pandey/)
+[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](https://GitHub.com/siddharth25pandey/)
+## <div align="center">🤞Happy Coding🤞</div>
