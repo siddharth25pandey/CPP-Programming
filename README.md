@@ -50,7 +50,7 @@ Feel free to post your codes here.
   <td align="center"><a href="https://github.com/Laukik-11"><img src="https://avatars1.githubusercontent.com/Laukik-11" width="100px;" alt=""/><br /><sub><b>Laukik Verma</b></sub></a><br /> <a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=https://github.com/Laukik-11" title="Documentation">📖</a></td>
   <td align="center"><a href="https://github.com/1laurelverma"><img src="https://avatars1.githubusercontent.com/1laurelverma" width="100px;" alt=""/><br /><sub><b>Laurel Verma</b></sub></a><br /> <a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=https://github.com/1laurelverma" title="Documentation">📖</a></td>
   <td align="center"><a href="https://github.com/10mohan"><img src="https://avatars1.githubusercontent.com/10mohan" width="100px;" alt=""/><br /><sub><b>Mohan</b></sub></a><br/> <a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=https://github.com/10mohan" title="Documentation">📖</a></td>
-  <td align="center"><a href="https://github.com/hubhangi-singh21"><img src="https://avatars1.githubusercontent.com/hubhangi-singh21" width="100px;" alt=""/><br /><sub><b> Shubhangi Singh</b></sub></a><br/> <a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=https://github.com/shubhangi-singh21" title="Documentation">📖</a></td>
+  <td align="center"><a href="https://github.com/hubhangi-singh21"><img src="https://avatars1.githubusercontent.com/shubhangi-singh21" width="100px;" alt=""/><br /><sub><b> Shubhangi Singh</b></sub></a><br/> <a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=https://github.com/shubhangi-singh21" title="Documentation">📖</a></td>
  
   
   
