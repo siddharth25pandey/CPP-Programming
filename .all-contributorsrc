@@ -40,7 +40,17 @@
       "contributions": [
         "code"
       ]
-    }
+    },
+     {
+      "login": "Shreyashm16",
+      "name": "Shreyash Mishra",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/56593418?v=4",
+      "profile": "https://github.com/Shreyashm16",
+      "profile": "https://github.com/Anshul758",
+      "contributions": [
+        "code"
+      ]
+    },
   ],
   "contributorsPerLine": 7,
   "projectName": "CPP-Programming",
