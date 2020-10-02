@@ -1,11 +1,12 @@
 # <div align="center">🖥️CPP-PROGRAMMING💻</div>
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
 ![Issues](https://img.shields.io/github/issues/siddharth25pandey/CPP-Programming)
 ![Pull Requests](https://img.shields.io/github/issues-pr/siddharth25pandey/CPP-Programming)
 ![Forks](https://img.shields.io/github/forks/siddharth25pandey/CPP-Programming)
 ![Stars](https://img.shields.io/github/stars/siddharth25pandey/CPP-Programming)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
+
 
 ### This repository is created to help beginners in their Open Source Contribution .
 
