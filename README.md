@@ -4,7 +4,8 @@
 
 This Repository contains all types of **C++** Programming Algorithms.
 Feel free to post your codes here.
-
+### Please star & Fork the Repository. So,that you can be benefited in Future. 
+#### Note: ONLY C++ CODES ARE ACCEPTED
 
 ## Contributor's List
 <table>
@@ -47,11 +48,7 @@ Feel free to post your codes here.
   </tr>
 </table>
 
-### Please star & Fork the Repository. So,that you can be benefited in Future. 
-#### Note: ONLY C++ CODES ARE ACCEPTED
-
-
-Please make sure to update tests as appropriate.
+### Please make sure to update tests as appropriate.
 
 ## License
 [MIT](LICENSE)
