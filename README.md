@@ -7,6 +7,11 @@
 ![Pull Requests](https://img.shields.io/github/issues-pr/siddharth25pandey/CPP-Programming)
 ![Forks](https://img.shields.io/github/forks/siddharth25pandey/CPP-Programming)
 ![Stars](https://img.shields.io/github/stars/siddharth25pandey/CPP-Programming)
+![Forks](https://img.shields.io/github/forks/siddharth25pandey/CPP-Programming?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/siddharth25pandey/CPP-Programming?style=for-the-badge)
+![Issues](https://img.shields.io/github/issues/siddharth25pandey/CPP-Programming?style=for-the-badge)
+![Pull Request](https://img.shields.io/github/issues-pr/siddharth25pandey/CPP-Programming?style=for-the-badge)
+![License](https://img.shields.io/github/license/siddharth25pandey/CPP-Programming?style=for-the-badge)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 ##
 
