@@ -1,5 +1,10 @@
+#include <bits/stdc++.h>
+
+/*
+What we're actually using
 #include <queue>
 #include <iostream>
+*/
 
 using namespace std;
 
@@ -12,11 +17,7 @@ int dj[] = {0, 1, 0, -1};
 const int n = 5, m = 5;
 
 // Our 2d array
-int vec[n][m] = {{ 0,  0, 0, -1, 0},
-                 {-1, -1, 0, -1, 0},
-                 {-1, 0,  0, -1, 0},
-                 {-1, 0, -1, 0, -1},
-                 {-1, 0,  0, 0,  0}};
+int vec[n][m];
 
 void Lee(int istart ,int jstart)
 {
@@ -47,9 +48,15 @@ void Lee(int istart ,int jstart)
 
 
 int main(){
+    cout << "Reading the array \n Please give 5 x 5 elements \n Where -1 is an obstacle and 0 is a free space \n";
+    for(int i = 0; i < n; i++){
+        for(int j = 0; j < m; j++){
+            cin >> vec[i][j];
+        }
+    }
     Lee(0,0);
     for(int i = 0; i < n; i++){
-        for(int j = 0; j < n; j++){
+        for(int j = 0; j < m; j++){
             cout << vec[i][j] << " "; 
         }
         cout << '\n';
