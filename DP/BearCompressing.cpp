@@ -1,16 +1,4 @@
-#include <iostream>
-#include <string>
-#include <math.h>
-#include <algorithm>
-#include <vector>
-#include <string>
-#include <queue>
-#include <deque>
-#include <stack>
-#include <set>
-#include <utility>
-#include <iterator>
-#include <sstream>
+#include <bits/stdc++.h>
 using namespace std;
 typedef long long ll;
 ll ans=0,n=0,q=0;
