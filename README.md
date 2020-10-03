@@ -11,7 +11,7 @@
 
 This Repository contains all types of **C++** Programming Algorithms.
 Feel free to post your codes here.
-### Please star 🌟 & Fork 🍴 the Repository. So,that you can be benefited in Future. 
+### Please star ⭐🌟⭐ & Fork 🍴 the Repository. So,that you can be benefited in Future. 
 #### Note: ONLY C++ CODES ARE ACCEPTED
 ### Please make sure to update tests as appropriate.
 
@@ -75,6 +75,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 ## License
 [MIT](LICENSE)
+
+## How to contribute?
+Please check [CONTRIBUTING.md](./CONTRIBUTING.md) for further instructions.
 ##
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/siddharth25pandey/)
 [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](https://GitHub.com/siddharth25pandey/)
