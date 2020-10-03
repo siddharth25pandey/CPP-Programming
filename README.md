@@ -4,13 +4,8 @@
 ![Stars](https://img.shields.io/github/stars/siddharth25pandey/CPP-Programming?style=for-the-badge)
 ![Issues](https://img.shields.io/github/issues/siddharth25pandey/CPP-Programming?style=for-the-badge)
 ![Pull Request](https://img.shields.io/github/issues-pr/siddharth25pandey/CPP-Programming?style=for-the-badge)
-![License](https://img.shields.io/github/license/siddharth25pandey/CPP-Programming?style=for-the-badge)
 ![contributors](https://img.shields.io/github/contributors/siddharth25pandey/CPP-Programming?style=for-the-badge)
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-32-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
-
-
+![License](https://img.shields.io/github/license/siddharth25pandey/CPP-Programming?style=for-the-badge)
 
 ### This repository is created to help beginners in their Open Source Contribution .
 
@@ -80,6 +75,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-32-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 ## License
