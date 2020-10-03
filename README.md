@@ -15,9 +15,9 @@ Feel free to post your codes here.
 #### Note: ONLY C++ CODES ARE ACCEPTED
 ### Please make sure to update tests as appropriate.
 ## How to contribute?
-Please check [CONTRIBUTING.md](CONTRIBUTORS.md) for further instructions.
+Please check [CONTRIBUTING GUIDLINE](CONTRIBUTORS.md) for further instructions.
 ## Follow Code of Conduct
-Please check [Code of Conduct.md](Code_of_Conduct.md) for further instructions.
+Please check [CODE OF CONDUCT](Code_of_Conduct.md) for further instructions.
 
 
 ## Contributors List✨
