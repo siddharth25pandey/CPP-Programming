@@ -77,7 +77,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 [MIT](LICENSE)
 
 ## How to contribute?
-Please check [CONTRIBUTING.md](./CONTRIBUTING.md) for further instructions.
+Please check [CONTRIBUTING.md](CONTRIBUTORS.md) for further instructions.
 ##
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/siddharth25pandey/)
 [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](https://GitHub.com/siddharth25pandey/)
