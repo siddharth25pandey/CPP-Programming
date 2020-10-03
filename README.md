@@ -79,7 +79,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://siddharth25pandey.github.io"><img src="https://avatars0.githubusercontent.com/u/56592079?v=4" width="100px;" alt=""/><br /><sub><b>SIDDHARTH PANDEY</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=siddharth25pandey" title="Code">💻</a></td>
+    <td align="center"><a href="https://siddharth25pandey.github.io"><img src="https://avatars0.githubusercontent.com/u/56592079?v=4" width="100px;" alt=""/><br /><sub><b>SIDDHARTH PANDEY</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=siddharth25pandey" title="Code">💻</a> <a href="#content-siddharth25pandey" title="Content">🖋</a> <a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=siddharth25pandey" title="Documentation">📖</a></td>
   </tr>
 </table>
 
