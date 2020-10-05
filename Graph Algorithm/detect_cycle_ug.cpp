@@ -1,49 +1,91 @@
-#cpp program to detect cycle in an undirected graph.
-#include<iostream>
-#include<set>
-#define NODE 5
-using namespace std;
+// A C++ Program to detect cycle in an undirected graph 
+#include<iostream> 
+#include <list> 
+#include <limits.h> 
+using namespace std; 
 
-int graph[NODE][NODE] = {
-   {0, 1, 0, 0, 0},
-   {1, 0, 1, 1, 0},
-   {0, 1, 0, 0, 1},
-   {0, 1, 0, 0, 1},
-   {0, 0, 1, 1, 0}
-};
+// Class for an undirected graph 
+class Graph 
+{ 
+	int V; // No. of vertices 
+	list<int> *adj; // Pointer to an array containing adjacency lists 
+	bool isCyclicUtil(int v, bool visited[], int parent); 
+public: 
+	Graph(int V); // Constructor 
+	void addEdge(int v, int w); // to add an edge to graph 
+	bool isCyclic(); // returns true if there is a cycle 
+}; 
 
-bool dfs(int vertex, set<int>&visited, int parent) {
-   visited.insert(vertex);
-   for(int v = 0; v<NODE; v++) {
-      if(graph[vertex][v]) {
-         if(v == parent)    //if v is the parent not move that direction
-            continue;
-         if(visited.find(v) != visited.end())    //if v is already visited
-            return true;
-         if(dfs(v, visited, vertex))
-            return true;
-      }
-   }
-   return false;
-}
+Graph::Graph(int V) 
+{ 
+	this->V = V; 
+	adj = new list<int>[V]; 
+} 
 
-bool hasCycle() {
-   set<int> visited;       //visited set
-   for(int v = 0; v<NODE; v++) {
-      if(visited.find(v) != visited.end())    //when visited holds v, jump to next iteration
-         continue;
-      if(dfs(v, visited, -1)) {    //-1 as no parent of starting vertex
-         return true;
-      }
-   }
-   return false;
-}
+void Graph::addEdge(int v, int w) 
+{ 
+	adj[v].push_back(w); // Add w to v’s list. 
+	adj[w].push_back(v); // Add v to w’s list. 
+} 
 
-int main() {
-   bool res;
-   res = hasCycle();
-   if(res)
-      cout << "The graph has cycle." << endl;
-   else
-      cout << "The graph has no cycle." << endl;
-}
+// A recursive function that uses visited[] and parent to detect 
+// cycle in subgraph reachable from vertex v. 
+bool Graph::isCyclicUtil(int v, bool visited[], int parent) 
+{ 
+	// Mark the current node as visited 
+	visited[v] = true; 
+
+	// Recur for all the vertices adjacent to this vertex 
+	list<int>::iterator i; 
+	for (i = adj[v].begin(); i != adj[v].end(); ++i) 
+	{ 
+		// If an adjacent is not visited, then recur for that adjacent 
+		if (!visited[*i]) 
+		{ 
+		if (isCyclicUtil(*i, visited, v)) 
+			return true; 
+		} 
+
+		// If an adjacent is visited and not parent of current vertex, 
+		// then there is a cycle. 
+		else if (*i != parent) 
+		return true; 
+	} 
+	return false; 
+} 
+
+// Returns true if the graph contains a cycle, else false. 
+bool Graph::isCyclic() 
+{ 
+	// Mark all the vertices as not visited and not part of recursion 
+	// stack 
+	bool *visited = new bool[V]; 
+	for (int i = 0; i < V; i++) 
+		visited[i] = false; 
+
+	// Call the recursive helper function to detect cycle in different 
+	// DFS trees 
+	for (int u = 0; u < V; u++) 
+		if (!visited[u]) // Don't recur for u if it is already visited 
+		if (isCyclicUtil(u, visited, -1)) 
+			return true; 
+
+	return false; 
+} 
+
+// Driver program to test above functions 
+int main() 
+{ 
+    int n,a,b;
+  	cout<<"Enter graph nodes\n";
+    cin>>n;
+  	Graph g1(n);
+  	for (int i=0;i<n;i++){
+      cin>>a>>b;
+      g1.addEdge(a,b);
+    } 
+  
+	g1.isCyclic()? cout << "Graph contains cycle\n": 
+				cout << "Graph doesn't contain cycle\n"; 
+	return 0; 
+} 
