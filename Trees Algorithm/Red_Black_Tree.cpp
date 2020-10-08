@@ -476,7 +476,8 @@ int main()
 {
     int ch,y=0;
     RBtree obj;
-    do
+    // Code for user interactive program
+    /*do
     {
                 cout<<"\n\t RED BLACK TREE " ;
                 cout<<"\n 1. Insert in the tree ";
@@ -504,5 +505,24 @@ int main()
                 cout<<endl;
 
     }while(y!=1);
+    */
+
+     for (int i = 0; i < 100; i++)
+     {
+          obj.insert(rand()%1000);
+     }
+
+     for (int i = 0; i < 100; i++)
+     {
+          obj.del(rand()%1000);
+     }
+
+     for (int i = 0; i < 100; i++)
+     {
+          obj.search(rand()%1000);
+     }
+     
+     obj.display();
+     
     return 1;
 }
