@@ -71,6 +71,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/OverthinkersArea"><img src="https://avatars2.githubusercontent.com/u/53104897?v=4" width="100px;" alt=""/><br /><sub><b>0ver3inker</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=OverthinkersArea" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/git-rishabh-jha"><img src="https://avatars0.githubusercontent.com/u/56585873?v=4" width="100px;" alt=""/><br /><sub><b>RISHABH JHA</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=git-rishabh-jha" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/Divyanshu-info"><img src="https://avatars0.githubusercontent.com/u/56086382?v=4" width="100px;" alt=""/><br /><sub><b>Divyanshu</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=Divyanshu-info" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/jainath875"><img src="https://avatars2.githubusercontent.com/u/54453129?v=4" width="100px;" alt=""/><br /><sub><b>jainath875</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=jainath875" title="Code">💻</a></td>
   </tr>
 </table>
 
@@ -78,7 +79,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-34-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-35-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
