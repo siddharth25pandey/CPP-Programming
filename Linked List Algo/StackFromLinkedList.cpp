@@ -59,14 +59,36 @@ void Stack::printStack(){
     cout<<endl;
 }
 int main(){
-    Stack a;
-    a.push(10);
-    a.push(0);
-    a.push(20);
-    a.push(30);
-    a.printStack();
-    cout<<a.top()<<endl;
-    a.pop();
-    a.printStack();
+        int a;
+        Stack x;
+        while(1){
+        cout<<"===================================="<<endl;
+        cout<<"1.Add element to the stack"<<endl;
+        cout<<"2.Pop element from the stack"<<endl;
+        cout<<"3.View your stack"<<endl;
+        cout<<"4.Exit the interface"<<endl;
+        cin>>a;
+        if(a==4){
+            break;
+        }
+        switch (a)
+        {
+            case 1:{
+                int new_element;
+                cout<<"Enter the element to be added: ";
+                cin>>new_element;
+                x.push(new_element);
+                break;
+            }
+            case 2:{
+                cout<<"Element popped: "<<x.top()<<endl;
+                x.pop();
+                break;
+            }
+            case 3:{
+                x.printStack();
+            }
+        }
+    }
 return 0;
 }

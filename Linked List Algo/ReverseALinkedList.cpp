@@ -8,24 +8,29 @@ struct Node{
 class LinkedList{
     Node *head;
     public:
-    LinkedList(int value);
+    LinkedList();
     void append(int value);
     void reverse();
     void printList();
 };
-LinkedList::LinkedList(int value){
-    head = new Node;
-    head->data = value;
-    head->next = nullptr;
+LinkedList::LinkedList(){
+    head = nullptr;
 }
 void LinkedList::append(int value){
-    Node *n =head;
-    while(n->next!=nullptr)
-        n=n->next;
-    Node *new_node = new Node;
-    new_node->data = value;
-    n->next = new_node;
-    new_node->next = nullptr;
+    if(head==nullptr){
+       head = new Node;
+       head->next = nullptr;
+       head->data = value;
+    }
+    else{
+        Node *n =head;
+        Node *new_node = new Node;
+        new_node->data = value;
+        while(n->next!=nullptr)
+            n=n->next;
+        n->next = new_node;
+        new_node->next = nullptr;
+    }
 }
 void LinkedList::reverse(){
     Node *prev, *next , *curr;
@@ -48,14 +53,35 @@ void LinkedList::printList(){
     cout<<endl;
 }
 int main(){
-    LinkedList a(1);
-    a.append(10);
-    a.append(20);
-    a.append(3);
-    a.append(40);
-    a.append(0);
-    a.printList(); // 1 10 20 3 40 0
-    a.reverse();
-    a.printList(); // 0 40 3 20 10 1
+    int a;
+    LinkedList ll;
+    while(1){
+        cout<<"===================================="<<endl;
+        cout<<"1.Add element to the linked list"<<endl;
+        cout<<"2.See the orignal and reversed version of your list"<<endl;
+        cout<<"3.Exit the interface"<<endl;
+        cin>>a;
+        if(a==3){
+            break;
+        }
+        switch (a)
+        {
+            case 1:{
+                int new_element;
+                cout<<"Enter the element to be added: ";
+                cin>>new_element;
+                ll.append(new_element);
+                break;
+            }
+            case 2:{
+                cout<<"Orignal: ";
+                ll.printList();
+                ll.reverse();
+                cout<<"Reversed: ";
+                ll.printList();
+                break;
+            }
+        }
+    }
 return 0;
 }
