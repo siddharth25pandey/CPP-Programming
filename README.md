@@ -78,6 +78,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/dhruvinfo28"><img src="https://avatars1.githubusercontent.com/u/60705641?v=4" width="100px;" alt=""/><br /><sub><b>dhruvinfo28</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=dhruvinfo28" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/Mohit123singh"><img src="https://avatars2.githubusercontent.com/u/56020402?v=4" width="100px;" alt=""/><br /><sub><b>Mohit123singh</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=Mohit123singh" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/PruthviPatel2001"><img src="https://avatars3.githubusercontent.com/u/68770776?v=4" width="100px;" alt=""/><br /><sub><b>Pruthvi Patel</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=PruthviPatel2001" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/fiddlytompkus"><img src="https://avatars1.githubusercontent.com/u/55635206?v=4" width="100px;" alt=""/><br /><sub><b>Abhishek Jain</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=fiddlytompkus" title="Code">💻</a></td>
   </tr>
 </table>
 
@@ -85,7 +86,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-39-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-40-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
