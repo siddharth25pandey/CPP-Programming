@@ -1,8 +1,6 @@
-#include <iostream>
-#include <vector>
-#include <algorithm>
+#include <bits/stdc++.h>
 
-using std::vector;
+using namespace std;
 
 vector<int> optimal_sequence(int n) {
   std::vector<int> sequence;
@@ -21,7 +19,8 @@ vector<int> optimal_sequence(int n) {
 }
 
 int main() {
-  int n;
+  int n; //Given an integer n, compute the minimum number of operations needed to obtain the number n 
+         // starting from the number 1.
   std::cin >> n;
   vector<int> sequence = optimal_sequence(n);
   std::cout << sequence.size() - 1 << std::endl;
