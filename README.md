@@ -80,6 +80,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/PruthviPatel2001"><img src="https://avatars3.githubusercontent.com/u/68770776?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Pruthvi Patel</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=PruthviPatel2001" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/fiddlytompkus"><img src="https://avatars1.githubusercontent.com/u/55635206?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Abhishek Jain</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=fiddlytompkus" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/rushendra910"><img src="https://avatars.githubusercontent.com/u/87089904?v=4?s=100" width="100px;" alt=""/><br /><sub><b>rushendra910</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=rushendra910" title="Code">💻</a></td>
+    <td align="center"><a href="https://sites.google.com/iiits.in/kushgupta/home"><img src="https://avatars.githubusercontent.com/u/74309241?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Kush Gupta</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=iamKushGupta" title="Code">💻</a></td>
   </tr>
 </table>
 
@@ -88,7 +89,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-41-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-42-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
