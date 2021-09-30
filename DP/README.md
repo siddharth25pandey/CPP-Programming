@@ -14,3 +14,7 @@ Link for all the questions :-
 - [removalGame.cpp](https://cses.fi/problemset/task/1097)
 - [removingDigits.cpp](https://cses.fi/problemset/task/1637)
 - [twoSets2.cpp](https://cses.fi/problemset/task/1093)
+- [LittleGirlMaxXOR.cpp](https://codeforces.com/problemset/problem/276/D)
+- [TwoSubstrings.cpp](https://codeforces.com/problemset/problem/550/A)
+- [BearCompressing.cpp](https://codeforces.com/problemset/problem/653/B)
+- [SimpleStrings.cpp](https://codeforces.com/problemset/problem/665/C)
