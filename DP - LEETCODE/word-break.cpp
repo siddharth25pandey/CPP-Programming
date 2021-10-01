@@ -1,4 +1,6 @@
 
+#include<bits/stdc++.h>
+#include<string>
 
 class Solution {
 public:
