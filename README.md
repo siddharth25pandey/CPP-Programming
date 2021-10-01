@@ -100,6 +100,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/satyamsingh-sg"><img src="https://avatars.githubusercontent.com/u/56595632?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Satyam Singh</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=satyamsingh-sg" title="Code">💻</a></td>
     <td align="center"><a href="https://shardik2001.zyrosite.com/"><img src="https://avatars.githubusercontent.com/u/56587994?v=4?s=100" width="100px;" alt=""/><br /><sub><b>hardik302001</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=hardik302001" title="Code">💻</a></td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/VedanT-27"><img src="https://avatars.githubusercontent.com/u/56587272?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Vedant Dhoble</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=VedanT-27" title="Code">💻</a></td>
+  </tr>
 </table>
 
 <!-- markdownlint-restore -->
@@ -107,7 +110,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-56-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-57-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
