@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /*
-gcc 64 bit short int size is 2 bytes
+g++ 64 bit short int size is 2 bytes
 
 When shifting an unsigned value, the >> operator in C is a logical shift. 
 When shifting a signed value, the >> operator is an arithmetic shift
