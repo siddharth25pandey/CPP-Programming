@@ -1,6 +1,5 @@
-#include <stdio.h>
-#include <stdio.h>
-#include <math.h>
+#include <bits/stdc++.h>
+
 //DIRECT MAPPING
 //cache has 8 lines and block size is 2 words
 long long int cache[8];
