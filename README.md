@@ -106,6 +106,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/aritro66"><img src="https://avatars.githubusercontent.com/u/78261928?v=4?s=100" width="100px;" alt=""/><br /><sub><b>aritro66</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=aritro66" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/prabhash-varma"><img src="https://avatars.githubusercontent.com/u/88572528?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Prabhash Varma Buddharaju</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=prabhash-varma" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/anirudhjak06"><img src="https://avatars.githubusercontent.com/u/56587311?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Anirudh Jakhotia</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=anirudhjak06" title="Code">💻</a></td>
+    <td align="center"><a href="https://shivanshuman021.github.io/"><img src="https://avatars.githubusercontent.com/u/51750587?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Anshuman Mishra</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=shivanshuman021" title="Code">💻</a></td>
   </tr>
 </table>
 
@@ -114,7 +115,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-61-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-62-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
