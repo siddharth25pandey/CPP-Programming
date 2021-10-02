@@ -123,6 +123,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://mahaboob-cv.herokuapp.com/"><img src="https://avatars.githubusercontent.com/u/64549906?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mahaboob Shaik</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=bannu0snake" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/krithikha2001"><img src="https://avatars.githubusercontent.com/u/59526292?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Krithikha Bala</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=krithikha2001" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/siddharth85"><img src="https://avatars.githubusercontent.com/u/69906884?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Siddharth Gautam</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=siddharth85" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/samahuja642"><img src="https://avatars.githubusercontent.com/u/74263843?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Samarth_Ahuja</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=samahuja642" title="Code">💻</a></td>
   </tr>
 </table>
 
@@ -131,7 +132,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-74-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-75-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
