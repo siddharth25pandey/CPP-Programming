@@ -15,3 +15,15 @@ int binExpItr(int a, int b){
   
   return ans;
 }
+
+int main(){
+  int a,b;
+  
+  cout<<"Enter the number and its power: ";
+  cin>>a>>b;
+  
+  int finalAns = binExpItr(a,b);
+  cout<< a << " to the power " << b << " = " << finalAns;
+
+    return 0;
+}
