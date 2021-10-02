@@ -645,6 +645,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "bannu0snake",
+      "name": "Mahaboob Shaik",
+      "avatar_url": "https://avatars.githubusercontent.com/u/64549906?v=4",
+      "profile": "https://mahaboob-cv.herokuapp.com/",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
