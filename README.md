@@ -131,6 +131,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/Simran2000-jpg"><img src="https://avatars.githubusercontent.com/u/59932005?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Simran Kaur Lamba</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=Simran2000-jpg" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/grumpy17"><img src="https://avatars.githubusercontent.com/u/70201987?v=4?s=100" width="100px;" alt=""/><br /><sub><b>grumpy17</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=grumpy17" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/pratik-2707"><img src="https://avatars.githubusercontent.com/u/73239498?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Pratik</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=pratik-2707" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/aman-mishra-02"><img src="https://avatars.githubusercontent.com/u/88890558?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Aman Mishra</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=aman-mishra-02" title="Code">💻</a></td>
   </tr>
 </table>
 
@@ -139,7 +140,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-80-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-81-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
