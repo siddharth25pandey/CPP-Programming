@@ -140,6 +140,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/Jay-prakashpandey"><img src="https://avatars.githubusercontent.com/u/81908427?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jay-prakashpandey</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=Jay-prakashpandey" title="Code">💻</a></td>
     <td align="center"><a href="https://dishanttayade.github.io/Portfoilio/"><img src="https://avatars.githubusercontent.com/u/56593517?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Dishant Tayade</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=dishanttayade" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/Satviik"><img src="https://avatars.githubusercontent.com/u/80253346?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Satvik Singh Rathore</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=Satviik" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/kasliwalshreyas"><img src="https://avatars.githubusercontent.com/u/75473663?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Shreyas Kasliwal</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=kasliwalshreyas" title="Code">💻</a></td>
   </tr>
 </table>
 
@@ -148,7 +149,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-87-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-88-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
