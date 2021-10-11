@@ -145,6 +145,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/phoenix1406"><img src="https://avatars.githubusercontent.com/u/91676198?v=4?s=100" width="100px;" alt=""/><br /><sub><b>phoenix1406</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=phoenix1406" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/raj06cool"><img src="https://avatars.githubusercontent.com/u/89586944?v=4?s=100" width="100px;" alt=""/><br /><sub><b>raj06cool</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=raj06cool" title="Code">💻</a></td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/vasavraj"><img src="https://avatars.githubusercontent.com/u/60337727?v=4?s=100" width="100px;" alt=""/><br /><sub><b>vasavraj</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=vasavraj" title="Code">💻</a></td>
+  </tr>
 </table>
 
 <!-- markdownlint-restore -->
@@ -152,7 +155,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-91-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-92-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
