@@ -1,8 +1,8 @@
-#include<bits/stc++.h>
 
+class Solution {
+public:
+    int uniquePaths(int m, int n) {
 
-
-int uniquePaths(int m, int n) {
         vector< vector<int>>dp(m,vector<int>(n));
         for(int i = 0;i<m;i++){
             dp[i][n-1] = 1;
@@ -18,10 +18,7 @@ int uniquePaths(int m, int n) {
         
         
         return dp[0][0];
-}
 
+    }
+};
 
-int main(){
-
-    return 0;
-}
