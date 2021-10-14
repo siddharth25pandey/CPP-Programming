@@ -8,7 +8,7 @@ int findFactorial(int num){
     if(num==0 || num==1){
         return 1;
     }
-    // here function is calling itself recursively till it is meeting the base condition
+    // here function is calling itself recursively till until it hits the base condition
     // and multiplying the num with its previous function call returned value
     return num * findFactorial(num-1);
 }
