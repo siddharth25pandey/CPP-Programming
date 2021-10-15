@@ -21,3 +21,13 @@ int main(){
     cout<<"The factorial of "<<number<<" is "<<findFactorial(number);
     return 0;
 }
+
+// Time Complexity of this code ->
+// O(n) -- (where n is the number) as we are using recursion and the function call will
+// happen until n hits the base condition so that many times function will get called
+// and its body will get executed.
+
+// Space Complexity of this code ->
+// O(n) -- As here the amount of memory required for code execution is proportional to 
+// how many times the function is getting recursively called i.e., till n>0 so its taking
+// a constant space for every function call.
