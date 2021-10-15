@@ -6,9 +6,7 @@ int main()
 {
     stack<int> s1,s2;
     int n,t,val;
-    cin>>t;
-    while(t--)
-    {
+    
         cin>>n;
         if(n==1)
         { 
@@ -33,6 +31,6 @@ int main()
         {
             cout<<s2.top()<<endl;
         }
-    } 
+        
     return 0;
 }
