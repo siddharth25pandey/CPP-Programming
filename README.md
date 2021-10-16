@@ -150,6 +150,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/AnandLpu"><img src="https://avatars.githubusercontent.com/u/91829277?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Anand Singh</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=AnandLpu" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/rishabhk965"><img src="https://avatars.githubusercontent.com/u/52632726?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Rishabh Kumar</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=rishabhk965" title="Code">💻</a></td>
     <td align="center"><a href="http://www.linkedin.com/in/anurag-chatterjee-34b374179"><img src="https://avatars.githubusercontent.com/u/50053862?v=4?s=100" width="100px;" alt=""/><br /><sub><b>ANURAG CHATTERJEE</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=anuragnewbie" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/surajwakka"><img src="https://avatars.githubusercontent.com/u/58338343?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Suraj-Wakka</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=surajwakka" title="Code">💻</a></td>
   </tr>
 </table>
 
@@ -158,7 +159,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-95-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-96-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
