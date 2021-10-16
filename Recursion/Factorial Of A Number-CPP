@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int fact(int);
+int fact(unsigned int);
 
 int main() {
     int n, result;
@@ -14,12 +14,14 @@ int main() {
     return 0;
 }
 
-int fact(int n) {
+int fact(unsigned int n) {
     if (n > 1)
     {
         return n * fact(n - 1);
-    } else
+    }
+     else
     {
         return 1;
     }
 }
+
