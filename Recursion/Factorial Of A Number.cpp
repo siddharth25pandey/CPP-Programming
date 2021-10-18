@@ -1,29 +1,22 @@
-#include <iostream>
+//////////Suited for Factorial of large numbers as well...Boost precision Library used....
+// number using boost library.
+#include <bits/stdc++.h>
+#include <boost/multiprecision/cpp_int.hpp>
+using boost::multiprecision::cpp_int;
 using namespace std;
 
-int main() {
-    int n;
-    long double fact = 1.0;
-
-    cout << "Enter a non-negative integer: ";
-    cin >> n;
-
-    if (n < 0)
-        cout << "Factorial does not exist";
-
-    else if (n==0||n==1)
-    {
-        cout<<"1";
-    }
-
-
-    else {
-        for(int i = 1; i <= n; ++i) {
-            fact *= i;
-        }
-        cout << "Factorial of " << n << " = " << fact;
-    }
-
-    return 0;
+cpp_int Factorial(int number)
+{
+	cpp_int num = 1;
+	for (int i = 1; i <= number; i++)
+		num = num * i;
+	return num;
 }
 
+int main()
+{
+	int number = 100;
+	cpp_int fact = Factorial(number);
+	cout << fact << endl;
+	return 0;
+}
