@@ -159,6 +159,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/akhiltej-2514"><img src="https://avatars.githubusercontent.com/u/74290451?v=4?s=100" width="100px;" alt=""/><br /><sub><b>akhiltej-2514</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=akhiltej-2514" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/AnjaliKumari033"><img src="https://avatars.githubusercontent.com/u/87610430?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Anjali kumari</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=AnjaliKumari033" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/vermavinay8948"><img src="https://avatars.githubusercontent.com/u/56758330?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Vinay Verma</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=vermavinay8948" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/Nupur9813"><img src="https://avatars.githubusercontent.com/u/93095855?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Nupur9813</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=Nupur9813" title="Code">💻</a></td>
   </tr>
 </table>
 
@@ -167,7 +168,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-102-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-103-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
