@@ -164,6 +164,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center"><a href="https://github.com/Gunjan-khatri"><img src="https://avatars.githubusercontent.com/u/114488977?v=4?s=100" width="100px;" alt="Gunjan-khatri"/><br /><sub><b>Gunjan-khatri</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=Gunjan-khatri" title="Code">💻</a></td>
       <td align="center"><a href="https://github.com/shubhankar-shandilya-india"><img src="https://avatars.githubusercontent.com/u/78155393?v=4?s=100" width="100px;" alt="Shubhankar Shandilya"/><br /><sub><b>Shubhankar Shandilya</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=shubhankar-shandilya-india" title="Code">💻</a></td>
     </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/Scare-Crow07"><img src="https://avatars.githubusercontent.com/u/114798534?v=4?s=100" width="100px;" alt="Scare-Crow07"/><br /><sub><b>Scare-Crow07</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=Scare-Crow07" title="Code">💻</a></td>
+    </tr>
   </tbody>
   <tfoot>
     
@@ -175,7 +178,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-105-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-106-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
