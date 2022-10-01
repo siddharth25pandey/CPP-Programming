@@ -1,23 +1,32 @@
 class Solution {
 public:
-    int secondsToRemoveOccurrences(string s) {
-        int ans=0;
-        for(int i=0;i<s.size();i++)
-         {
-            bool flag=false;
-            for(int j=0;j<s.size()-1;j++)
-                {
-                    if(s[j]=='0' and s[j+1]=='1')
-                    {
-                        swap(s[j],s[j+1]);
-                        flag=true;
-                        j++;
-                    }
-                }
-              if(flag)ans++;
-              else break;
-        }
-        return ans;
+    int climbStairs(int n) {
+       // vector<int>steps;
+/*steps.push_back(1);
+steps.push_back(2);*/
+/*int first=1, second=2;
+int res=0;
+    if(n==1) return 1;
+        if(n==2) return 2;
+for(int i=3;i<=n;i++)
+{
+	//steps.push_back(steps[i-1]+steps[i-2]);
+	res=first+second;
+	first= second;
+	second=res;
+}
+return res;*/
+//return steps[n-1];
+    long long int a[n+1];
+		a[0]=1;
+		a[1]=2;
+		for(int i=2;i<=n;i++)
+		{
+			a[i]=a[i-1]+a[i-2];
+		}
+		return a[n-1];
         
+
+
     }
 };
