@@ -1,0 +1,69 @@
+
+// kosaraju algo for SCC                
+TC: O(v+e)
+
+1. do dfs, mark vis , push into stack
+2. reverse graph, reset vis
+3. pop from stack , if not visited , print and do dfs
+
+2 dfs, 1 rev
+
+
+#define pb push_back
+
+unordered_map<int,vector<int>> adj,rev;
+
+void DFS1(int i,vector<bool>& visited,stack<int>& mystack)
+{
+	visited[i]=true;
+	for(int j: adj[i])
+		if(visited[j]==false)
+			DFS1(j,visited,mystack);
+
+	mystack.push(i);                     // push after completing dfs for cur node
+}
+
+void reverse()
+{
+	for(int i=0;i<V;++i)
+	{
+		for(int j: adj[i])
+			rev[j].pb(i);
+	}
+}
+
+void DFS2(int i,vector<bool>& visited)
+{
+	cout<<i<<" ";
+	visited[i] = true;
+	for(int j: rev[i])
+		if(!visited[j])
+			DFS2(j,visited);
+}
+
+void findSCCs()
+{
+	stack<int> mystack;
+
+	vector<bool> visited(V,false);
+	for(int i=0;i<V;++i)
+		if(!visited[i])
+			DFS1(i,visited,mystack);
+
+	reverse();
+
+	for(int i=0;i<V;++i)                           // reset vis
+		visited[i] = false;
+
+	cout<<"Strongly Connected Components are:\n";
+	while(!mystack.empty())
+	{
+		int curr = mystack.top();
+		mystack.pop();
+		if(visited[curr]==false)               // not visited, so we get a new scc
+		{
+			DFS2(curr,visited);
+			cout<<"\n";
+		}
+	}
+} 
