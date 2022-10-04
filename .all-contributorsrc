@@ -1023,6 +1023,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "kiriotheo",
+      "name": "Aditya Vijay",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79340120?v=4",
+      "profile": "http://adityavijay.codes",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
