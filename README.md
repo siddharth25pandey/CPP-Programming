@@ -169,6 +169,14 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center"><a href="https://github.com/Pratik29121"><img src="https://avatars.githubusercontent.com/u/88839654?v=4?s=100" width="100px;" alt="Pratik Suryawanshi"/><br /><sub><b>Pratik Suryawanshi</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=Pratik29121" title="Code">💻</a></td>
       <td align="center"><a href="https://www.linkedin.com/in/jayaratnauttam-appana-148562239/"><img src="https://avatars.githubusercontent.com/u/95581505?v=4?s=100" width="100px;" alt="Appana Jaya Ratna Uttam"/><br /><sub><b>Appana Jaya Ratna Uttam</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=ajruttam" title="Code">💻</a></td>
       <td align="center"><a href="https://github.com/roughking07"><img src="https://avatars.githubusercontent.com/u/87302150?v=4?s=100" width="100px;" alt="Kunal Khatri"/><br /><sub><b>Kunal Khatri</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=roughking07" title="Code">💻</a></td>
+      <td align="center"><a href="https://github.com/7thHorcrux"><img src="https://avatars.githubusercontent.com/u/114829962?v=4?s=100" width="100px;" alt="Shreyas"/><br /><sub><b>Shreyas</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=7thHorcrux" title="Code">💻</a></td>
+      <td align="center"><a href="http://sudhakarsingh.dev"><img src="https://avatars.githubusercontent.com/u/85333344?v=4?s=100" width="100px;" alt="Sudhakar Singh"/><br /><sub><b>Sudhakar Singh</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=naaam-h-siddhu" title="Code">💻</a></td>
+      <td align="center"><a href="https://github.com/abhinyaay"><img src="https://avatars.githubusercontent.com/u/111532209?v=4?s=100" width="100px;" alt="Abhinay Kumar"/><br /><sub><b>Abhinay Kumar</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=abhinyaay" title="Code">💻</a></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/avidashu"><img src="https://avatars.githubusercontent.com/u/72491104?v=4?s=100" width="100px;" alt="avidashu"/><br /><sub><b>avidashu</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=avidashu" title="Code">💻</a></td>
+      <td align="center"><a href="http://adityavijay.codes"><img src="https://avatars.githubusercontent.com/u/79340120?v=4?s=100" width="100px;" alt="Aditya Vijay"/><br /><sub><b>Aditya Vijay</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=kiriotheo" title="Documentation">📖</a></td>
+      <td align="center"><a href="https://github.com/Pranav0718"><img src="https://avatars.githubusercontent.com/u/78557970?v=4?s=100" width="100px;" alt="Pranav  Walgude"/><br /><sub><b>Pranav  Walgude</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=Pranav0718" title="Code">💻</a></td>
     </tr>
   </tbody>
   <tfoot>
@@ -181,7 +189,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-109-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-115-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
