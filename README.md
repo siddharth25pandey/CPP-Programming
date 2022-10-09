@@ -187,6 +187,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center"><a href="https://grumpyyash.github.io/"><img src="https://avatars.githubusercontent.com/u/62200066?v=4?s=100" width="100px;" alt="Yash Vardhan"/><br /><sub><b>Yash Vardhan</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=Grumpyyash" title="Code">💻</a></td>
       <td align="center"><a href="https://github.com/Mridul-1-Sharma"><img src="https://avatars.githubusercontent.com/u/99008386?v=4?s=100" width="100px;" alt="Mridul-1-Sharma"/><br /><sub><b>Mridul-1-Sharma</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=Mridul-1-Sharma" title="Code">💻</a></td>
       <td align="center"><a href="https://github.com/SubhojeetDas1107"><img src="https://avatars.githubusercontent.com/u/80981317?v=4?s=100" width="100px;" alt="Subhojeet Das"/><br /><sub><b>Subhojeet Das</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=SubhojeetDas1107" title="Code">💻</a></td>
+      <td align="center"><a href="https://github.com/gauravgautam00"><img src="https://avatars.githubusercontent.com/u/94364449?v=4?s=100" width="100px;" alt="Gaurav Gautam"/><br /><sub><b>Gaurav Gautam</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=gauravgautam00" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
@@ -196,7 +197,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-123-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-124-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
