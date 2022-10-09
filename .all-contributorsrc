@@ -1266,6 +1266,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "abhianand0110",
+      "name": "Abhishek Anand",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76611051?v=4",
+      "profile": "http://abhishekanand0.netlify.app",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
