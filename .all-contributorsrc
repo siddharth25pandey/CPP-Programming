@@ -1275,6 +1275,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "jupyterNauticals",
+      "name": "jupyterNauticals",
+      "avatar_url": "https://avatars.githubusercontent.com/u/115215622?v=4",
+      "profile": "https://github.com/jupyterNauticals",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
