@@ -212,6 +212,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <tr>
       <td align="center"><a href="http://abhishekanand0.netlify.app"><img src="https://avatars.githubusercontent.com/u/76611051?v=4?s=100" width="100px;" alt="Abhishek Anand"/><br /><sub><b>Abhishek Anand</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=abhianand0110" title="Code">💻</a></td>
       <td align="center"><a href="https://github.com/jupyterNauticals"><img src="https://avatars.githubusercontent.com/u/115215622?v=4?s=100" width="100px;" alt="jupyterNauticals"/><br /><sub><b>jupyterNauticals</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=jupyterNauticals" title="Code">💻</a></td>
+      <td align="center"><a href="https://github.com/ysumitsingh159"><img src="https://avatars.githubusercontent.com/u/91625202?v=4?s=100" width="100px;" alt="ysumitsingh159"/><br /><sub><b>ysumitsingh159</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=ysumitsingh159" title="Code">💻</a></td>
+      <td align="center"><a href="https://github.com/Mitanshilodha"><img src="https://avatars.githubusercontent.com/u/109990196?v=4?s=100" width="100px;" alt="Mitanshilodha"/><br /><sub><b>Mitanshilodha</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=Mitanshilodha" title="Code">💻</a></td>
+      <td align="center"><a href="https://mlaibanasir.wixsite.com/laibanasirdev"><img src="https://avatars.githubusercontent.com/u/55222206?v=4?s=100" width="100px;" alt="Laiba Nasir"/><br /><sub><b>Laiba Nasir</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=laibanasirdev" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
@@ -221,7 +224,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-142-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-145-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
