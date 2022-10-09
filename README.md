@@ -195,6 +195,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center"><a href="https://www.linkedin.com/in/ermapsh/"><img src="https://avatars.githubusercontent.com/u/72149385?v=4?s=100" width="100px;" alt="Mahesh Anant Mestri"/><br /><sub><b>Mahesh Anant Mestri</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=ErMapsh" title="Code">💻</a></td>
       <td align="center"><a href="https://github.com/DEVENDRA-MANI-TRIPATHI"><img src="https://avatars.githubusercontent.com/u/92941880?v=4?s=100" width="100px;" alt="DEVENDRA-MANI-TRIPATHI"/><br /><sub><b>DEVENDRA-MANI-TRIPATHI</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=DEVENDRA-MANI-TRIPATHI" title="Code">💻</a></td>
       <td align="center"><a href="https://github.com/ved-rajpoot"><img src="https://avatars.githubusercontent.com/u/79780296?v=4?s=100" width="100px;" alt="ved pratap singh rajpoot"/><br /><sub><b>ved pratap singh rajpoot</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=ved-rajpoot" title="Code">💻</a></td>
+      <td align="center"><a href="https://github.com/priyalj52"><img src="https://avatars.githubusercontent.com/u/94099575?v=4?s=100" width="100px;" alt="Priyal Jain"/><br /><sub><b>Priyal Jain</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=priyalj52" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
@@ -204,7 +205,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-129-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-130-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
