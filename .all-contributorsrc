@@ -1041,6 +1041,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "rithwik003",
+      "name": "Rithwik",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112548853?v=4",
+      "profile": "https://github.com/rithwik003",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
@@ -1048,5 +1057,6 @@
   "projectOwner": "siddharth25pandey",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "skipCi": true
+  "skipCi": true,
+  "commitConvention": "angular"
 }
