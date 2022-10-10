@@ -5,7 +5,7 @@
 
 #include <bits/stdc++.h>
 
-using namespace std;
+ using namespace std;
 
 /*The parameter dir indicates the sorting direction, ASCENDING
    or DESCENDING; if (a[i] > a[j]) agrees with the direction,
