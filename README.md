@@ -227,6 +227,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center"><a href="https://github.com/ankur249"><img src="https://avatars.githubusercontent.com/u/105782132?v=4?s=100" width="100px;" alt="ankur249"/><br /><sub><b>ankur249</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=ankur249" title="Code">💻</a></td>
       <td align="center"><a href="https://github.com/S-ahil-Saxen-a"><img src="https://avatars.githubusercontent.com/u/95903519?v=4?s=100" width="100px;" alt="S-ahil-Saxen-a"/><br /><sub><b>S-ahil-Saxen-a</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=S-ahil-Saxen-a" title="Code">💻</a></td>
     </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/MrCuber"><img src="https://avatars.githubusercontent.com/u/91596032?v=4?s=100" width="100px;" alt="Umesh Chandra"/><br /><sub><b>Umesh Chandra</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=MrCuber" title="Code">💻</a></td>
+    </tr>
   </tbody>
 </table>
 
@@ -235,7 +238,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-154-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-155-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
