@@ -1,3 +1,5 @@
+// This code is contributed by CoderGhost37
+
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -86,11 +88,10 @@ string decimalToHexadecimal(int n)
 
 int main()
 {
-    // string n;
-    int n;
-    cin>>n;
-
-    cout<< decimalToBinary(n);
+    cout<< decimalToBinary(7) <<endl;  // decimal to binary converion
+    cout<< binaryToDecimal(1101) <<endl; // binary to decimal conversion
+    cout<< decimalToHexadecimal(127) <<endl; // decimal to hexadecimal conversion
+    cout<< hexadecimalToDecimal("421") <<endl; // hexadecimal to decimal conversion
 
     return 0;
 }
