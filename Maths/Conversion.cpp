@@ -1,6 +1,7 @@
 // This code is contributed by CoderGhost37
 
-#include <bits/stdc++.h>
+#include <iostream>
+#include <string.h>
 using namespace std;
 
 int hexadecimalToDecimal(string n)
