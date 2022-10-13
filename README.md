@@ -234,6 +234,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center"><a href="https://github.com/Deepak25khatri"><img src="https://avatars.githubusercontent.com/u/87187272?v=4?s=100" width="100px;" alt="Deepak25khatri"/><br /><sub><b>Deepak25khatri</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=Deepak25khatri" title="Code">💻</a></td>
       <td align="center"><a href="https://hackingalltou.blogspot.com/"><img src="https://avatars.githubusercontent.com/u/88175877?v=4?s=100" width="100px;" alt="Mayank Gupta"/><br /><sub><b>Mayank Gupta</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=rajmayank93" title="Code">💻</a></td>
       <td align="center"><a href="https://github.com/Harshdev625"><img src="https://avatars.githubusercontent.com/u/98793412?v=4?s=100" width="100px;" alt="HARSH DEV"/><br /><sub><b>HARSH DEV</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=Harshdev625" title="Code">💻</a></td>
+      <td align="center"><a href="https://github.com/adityaraj0109"><img src="https://avatars.githubusercontent.com/u/92059596?v=4?s=100" width="100px;" alt="Aditya Raj"/><br /><sub><b>Aditya Raj</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=adityaraj0109" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
@@ -243,7 +244,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-160-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-161-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
