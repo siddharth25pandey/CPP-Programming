@@ -1,5 +1,6 @@
 #include <bits/stdc++.h>
 #include <iostream>
+#include<map>
 using namespace std;
  
 int binarySearch(vector<int> v, int To_Find)
