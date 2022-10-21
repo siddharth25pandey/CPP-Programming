@@ -262,7 +262,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center"><a href="https://github.com/rithik56"><img src="https://avatars.githubusercontent.com/u/70520896?v=4?s=100" width="100px;" alt="rithik56"/><br /><sub><b>rithik56</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=rithik56" title="Code">💻</a></td>
       <td align="center"><a href="https://github.com/Ali-bhai"><img src="https://avatars.githubusercontent.com/u/116160426?v=4?s=100" width="100px;" alt="Ali-bhai"/><br /><sub><b>Ali-bhai</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=Ali-bhai" title="Code">💻</a></td>
       <td align="center"><a href="https://github.com/gargshruti"><img src="https://avatars.githubusercontent.com/u/86488476?v=4?s=100" width="100px;" alt="gargshruti"/><br /><sub><b>gargshruti</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=gargshruti" title="Code">💻</a></td>
-     
+    </tr>
      <tr>
        <td align="center"><a href="https://github.com/neosandeep24"><img src="https://avatars.githubusercontent.com/u/103883917?v=4?s=100" width="100px;" alt="neosandeep24"/><br /><sub><b>neosandeep24</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=neosandeep24" title="Code">💻</a></td>
 
