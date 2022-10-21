@@ -261,6 +261,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center"><a href="https://github.com/Abgupta17"><img src="https://avatars.githubusercontent.com/u/94524137?v=4?s=100" width="100px;" alt="Abhay Gupta"/><br /><sub><b>Abhay Gupta</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=Abgupta17" title="Code">💻</a></td>
       <td align="center"><a href="https://github.com/rithik56"><img src="https://avatars.githubusercontent.com/u/70520896?v=4?s=100" width="100px;" alt="rithik56"/><br /><sub><b>rithik56</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=rithik56" title="Code">💻</a></td>
       <td align="center"><a href="https://github.com/Ali-bhai"><img src="https://avatars.githubusercontent.com/u/116160426?v=4?s=100" width="100px;" alt="Ali-bhai"/><br /><sub><b>Ali-bhai</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=Ali-bhai" title="Code">💻</a></td>
+      <td align="center"><a href="https://github.com/gargshruti"><img src="https://avatars.githubusercontent.com/u/86488476?v=4?s=100" width="100px;" alt="gargshruti"/><br /><sub><b>gargshruti</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=gargshruti" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
@@ -270,7 +271,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-181-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-182-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
