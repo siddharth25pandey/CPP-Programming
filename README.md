@@ -242,6 +242,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center"><a href="https://github.com/abhi26ak"><img src="https://avatars.githubusercontent.com/u/65384193?v=4?s=100" width="100px;" alt="Abhishek Kanaujiya"/><br /><sub><b>Abhishek Kanaujiya</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=abhi26ak" title="Code">💻</a></td>
       <td align="center"><a href="https://github.com/Hegde2002"><img src="https://avatars.githubusercontent.com/u/108859581?v=4?s=100" width="100px;" alt="Hegde2002"/><br /><sub><b>Hegde2002</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=Hegde2002" title="Code">💻</a></td>
       <td align="center"><a href="https://github.com/ANURAG-PATHAK"><img src="https://avatars.githubusercontent.com/u/81188792?v=4?s=100" width="100px;" alt="Anurag Pathak"/><br /><sub><b>Anurag Pathak</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=ANURAG-PATHAK" title="Code">💻</a></td>
+      <td align="center"><a href="https://github.com/Shrevijain"><img src="https://avatars.githubusercontent.com/u/86588803?v=4?s=100" width="100px;" alt="Shrevi"/><br /><sub><b>Shrevi</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=Shrevijain" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
@@ -251,7 +252,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-166-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-167-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
