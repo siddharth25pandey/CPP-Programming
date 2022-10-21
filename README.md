@@ -269,9 +269,6 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center"><a href="https://github.com/KumarDevada"><img src="https://avatars.githubusercontent.com/u/115659253?v=4?s=100" width="100px;" alt="KumarDevada"/><br /><sub><b>KumarDevada</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=KumarDevada" title="Code">💻</a></td>
 
     </tr>
-    <tr>
-     
-    </tr>
   </tbody>
 </table>
 
