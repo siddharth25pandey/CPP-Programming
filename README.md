@@ -252,6 +252,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center"><a href="https://github.com/Tanishadosunil"><img src="https://avatars.githubusercontent.com/u/112493993?v=4?s=100" width="100px;" alt="Tanishadosunil"/><br /><sub><b>Tanishadosunil</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=Tanishadosunil" title="Code">💻</a></td>
       <td align="center"><a href="https://github.com/Harshit-2112"><img src="https://avatars.githubusercontent.com/u/114748704?v=4?s=100" width="100px;" alt="Harshit-2112"/><br /><sub><b>Harshit-2112</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=Harshit-2112" title="Code">💻</a></td>
       <td align="center"><a href="https://github.com/Akhil795"><img src="https://avatars.githubusercontent.com/u/83168069?v=4?s=100" width="100px;" alt="Akhilesh Tyagi"/><br /><sub><b>Akhilesh Tyagi</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=Akhil795" title="Code">💻</a></td>
+      <td align="center"><a href="https://github.com/AviAtul"><img src="https://avatars.githubusercontent.com/u/96240176?v=4?s=100" width="100px;" alt="AviAtul"/><br /><sub><b>AviAtul</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=AviAtul" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
@@ -261,7 +262,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-174-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-175-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
