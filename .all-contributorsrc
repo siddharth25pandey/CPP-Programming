@@ -5,6 +5,15 @@
   "imageSize": 100,
   "commit": false,
   "contributors": [
+  {
+      "login": "Raunik2",
+      "name": "Raunik2",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/72163218?v=4",
+      "profile": "https://github.com/Raunik2",
+      "contributions": [
+        "code"
+      ]
+    },
     {
       "login": "siddharth25pandey",
       "name": "SIDDHARTH PANDEY",
