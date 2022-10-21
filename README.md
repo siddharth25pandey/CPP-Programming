@@ -243,6 +243,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center"><a href="https://github.com/Hegde2002"><img src="https://avatars.githubusercontent.com/u/108859581?v=4?s=100" width="100px;" alt="Hegde2002"/><br /><sub><b>Hegde2002</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=Hegde2002" title="Code">💻</a></td>
       <td align="center"><a href="https://github.com/ANURAG-PATHAK"><img src="https://avatars.githubusercontent.com/u/81188792?v=4?s=100" width="100px;" alt="Anurag Pathak"/><br /><sub><b>Anurag Pathak</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=ANURAG-PATHAK" title="Code">💻</a></td>
       <td align="center"><a href="https://github.com/dinesh21o9"><img src="https://avatars.githubusercontent.com/u/108334100?v=4?s=100" width="100px;" alt="dinesh21o9"/><br /><sub><b>dinesh21o9</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=dinesh21o9" title="Code">💻</a></td>
+      <td align="center"><a href="https://github.com/ayush-1601"><img src="https://avatars.githubusercontent.com/u/83022390?v=4?s=100" width="100px;" alt="ayush-1601"/><br /><sub><b>ayush-1601</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=ayush-1601" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
@@ -252,7 +253,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-167-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-168-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
