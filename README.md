@@ -175,6 +175,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/avidashu"><img src="https://avatars.githubusercontent.com/u/72491104?v=4?s=100" width="100px;" alt="avidashu"/><br /><sub><b>avidashu</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=avidashu" title="Code">💻</a></td>
+
+      <td align="center"><a href="http://adityavijay.codes"><img src="https://avatars.githubusercontent.com/u/79340120?v=4?s=100" width="100px;" alt="Aditya Vijay"/><br /><sub><b>Aditya Vijay</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=kiriotheo" title="Documentation">📖</a> <a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=kiriotheo" title="Code">💻</a></td>
+
       <td align="center"><a href="http://adityavijay.codes"><img src="https://avatars.githubusercontent.com/u/79340120?v=4?s=100" width="100px;" alt="Aditya Vijay"/><br /><sub><b>Aditya Vijay</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=kiriotheo" title="Documentation">📖</a></td>
       <td align="center"><a href="https://github.com/Pranav0718"><img src="https://avatars.githubusercontent.com/u/78557970?v=4?s=100" width="100px;" alt="Pranav  Walgude"/><br /><sub><b>Pranav  Walgude</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=Pranav0718" title="Code">💻</a></td>
       <td align="center"><a href="https://github.com/rithwik003"><img src="https://avatars.githubusercontent.com/u/112548853?v=4?s=100" width="100px;" alt="Rithwik"/><br /><sub><b>Rithwik</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=rithwik003" title="Code">💻</a></td>
@@ -244,6 +247,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center"><a href="https://github.com/ANURAG-PATHAK"><img src="https://avatars.githubusercontent.com/u/81188792?v=4?s=100" width="100px;" alt="Anurag Pathak"/><br /><sub><b>Anurag Pathak</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=ANURAG-PATHAK" title="Code">💻</a></td>
       <td align="center"><a href="https://github.com/dinesh21o9"><img src="https://avatars.githubusercontent.com/u/108334100?v=4?s=100" width="100px;" alt="dinesh21o9"/><br /><sub><b>dinesh21o9</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=dinesh21o9" title="Code">💻</a></td>
       <td align="center"><a href="https://github.com/ayush-1601"><img src="https://avatars.githubusercontent.com/u/83022390?v=4?s=100" width="100px;" alt="ayush-1601"/><br /><sub><b>ayush-1601</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=ayush-1601" title="Code">💻</a></td>
+
     </tr>
   </tbody>
 </table>
