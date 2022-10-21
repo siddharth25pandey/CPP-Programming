@@ -259,6 +259,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center"><a href="https://github.com/nitigya-joshi02"><img src="https://avatars.githubusercontent.com/u/115945926?v=4?s=100" width="100px;" alt="nitigya-joshi02"/><br /><sub><b>nitigya-joshi02</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=nitigya-joshi02" title="Code">💻</a></td>
       <td align="center"><a href="https://github.com/payonidhi"><img src="https://avatars.githubusercontent.com/u/82874779?v=4?s=100" width="100px;" alt="Payonidhi Joshi"/><br /><sub><b>Payonidhi Joshi</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=payonidhi" title="Code">💻</a></td>
       <td align="center"><a href="https://github.com/Abgupta17"><img src="https://avatars.githubusercontent.com/u/94524137?v=4?s=100" width="100px;" alt="Abhay Gupta"/><br /><sub><b>Abhay Gupta</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=Abgupta17" title="Code">💻</a></td>
+      <td align="center"><a href="https://github.com/rithik56"><img src="https://avatars.githubusercontent.com/u/70520896?v=4?s=100" width="100px;" alt="rithik56"/><br /><sub><b>rithik56</b></sub></a><br /><a href="https://github.com/siddharth25pandey/CPP-Programming/commits?author=rithik56" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
@@ -268,7 +269,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-179-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-180-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
