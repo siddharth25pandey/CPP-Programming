@@ -1,4 +1,5 @@
-import background from '../files/back.png'
+import background from '../../files/back.png'
+
 
 function Home(){
     return (
