@@ -38,19 +38,7 @@
 }
 
 
-nav {
-  display: flex;
-  justify-content: space-around;
-  align-items: center;
-  background-color: #282c34;
-  color: wheat;
-  height: 10vh;
-}
-
 .home {
-  /* background-image: url('/src/files/back.png');
-  background-size: 100% 100%;
-  background-repeat: no-repeat; */
   text-align: center;
   left: 0;
   line-height: 200px;
