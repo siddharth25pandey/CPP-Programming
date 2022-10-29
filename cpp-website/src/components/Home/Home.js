@@ -1,14 +1,14 @@
-import background from '../../files/back.png'
+// import image from "../files/cpp3.png"
+import './home.css'
 
 
 function Home(){
-    return (
-        <div style={{
-            backgroundImage: `url(${background})`
-        }} className="home">
-            <h1>We do C++ here.</h1>
+  return (
+        <div className='home'>
+            <h1> We do c++ here. </h1>
         </div>
-    )
+  );
 }
+
 
 export default Home

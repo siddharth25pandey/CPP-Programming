@@ -1,0 +1,16 @@
+.home {
+    text-align: center;
+    background-color: #E4BA6F;
+    background-image: url("../../files/back.png");
+    height: calc(100vh - 85px);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.home h1 {
+    font-size: 3rem;
+    color: aliceblue;
+    position: relative;
+    top: 80vh;
+}
