@@ -1,0 +1,14 @@
+.about {
+    color: azure;
+    background-color: #182747;
+    text-align: center;
+    height: calc(100vh - 85px);
+    /* width: 100%; */
+    /* background-repeat: no-repeat; */
+    /* background-size: cover; */
+}
+
+img {
+    width: 100%;
+    padding: 5%;
+}
