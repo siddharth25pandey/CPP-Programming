@@ -17,12 +17,12 @@ long long maxSubarraySum(int arr[], int n){
         
         // Kadane Space Optimization
         int prevSum = arr[0];
-        int ans = prevSum;
+        int result = prevSum;
         
         for( int i=1; i<n; i++ ){
             prevSum = max( arr[i], prevSum + arr[i] );
-            ans = max( ans, prevSum );
+            result = max( result, prevSum );
         }
         
-        return ans;
+        return result;
     }
